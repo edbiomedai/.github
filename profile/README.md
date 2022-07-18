@@ -1,9 +1,9 @@
 ## EdBiomedAI
 
-This is the Github organisation of the groups of [Ava Khamseh](https://www.ed.ac.uk/mrc-human-genetics-unit/research/ava-khamseh-research-group)
- and [Sjoerd Beentjes](https://www.ed.ac.uk/mrc-human-genetics-unit/research/ava-khamseh-research-group).
+This is the Github organisation of the research groups of [Ava Khamseh](https://www.ed.ac.uk/mrc-human-genetics-unit/research/ava-khamseh-research-group)
+ and [Sjoerd Beentjes](https://www.ed.ac.uk/mrc-human-genetics-unit/research/ava-khamseh-research-group) located at the Institute of Genetics and Cancer Edinburgh, UK.
  
- We are a group of cross-disiplinary researchers, and have members with backgrounds in Mathematics, Phyiscs, Statistics, Molecular Biology and Bioinformatics.
+ We are a group of cross-disiplinary researchers, and have members with backgrounds in Mathematics, Physics, Statistics, Molecular Biology and Bioinformatics.
  
  Using rigourous mathematical, statistical, and machine-learning frameworks, such as Targeted Learning and Super Learners, we work on
  
